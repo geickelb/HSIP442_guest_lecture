@@ -1,0 +1,15 @@
+conda create -n mimic_model python=3.6
+
+conda install scikit-learn pandas matplotlib jupyterlab seaborn 
+
+##### these packages are what I used to get the data, only install if you want.
+### pip install asyncio
+### pip install psycopg2
+
+#tutorials for managing conda 
+# https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/ 
+# https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#viewing-a-list-of-the-packages-in-an-environment
+
+
+
+### i can create an environment file i can share with others, see in 2d link above
